@@ -6,5 +6,6 @@ Meu primeiro projeto de um layout simples de uma site com todos os botões funci
 
 Todas as imagens extraídas do site https://pixabay.com/.
 
-Fontes usadas no código: Asap, Sans-serif, Yellowtail, serif.
+Fontes usadas no código: Asap, Sans-serif, Yellowtail e serif.
+
 Todas as fontes extraídas do site https://fonts.google.com/.
